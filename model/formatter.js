@@ -1,0 +1,1 @@
+sap.ui.define([],function(){"use strict";return{status:function(e){if(e==="Success"){return"sap-icon://accept"}else{return"sap-icon://message-error"}}}});
