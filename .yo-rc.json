@@ -1,0 +1,16 @@
+{
+  "generator-easy-ui5": {
+    "projectname": "exampleui5",
+    "namespace": "com.santiago",
+    "platform": "Static webserver",
+    "viewtype": "XML",
+    "viewname": "App",
+    "ui5libs": "Content delivery network (SAPUI5)",
+    "newdir": false,
+    "namespaceURI": "com/santiago",
+    "uimodules": [
+      "uimodule"
+    ],
+    "setupCompleted": true
+  }
+}

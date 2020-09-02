@@ -1,0 +1,1 @@
+sap.ui.define(["sap/ui/core/mvc/Controller","sap/ui/core/UIComponent","sap/m/MessageToast","com/santiago/exampleui5/controller/BaseController"],function(e,o,t,n){"use strict";var i;return n.extend("com.santiago.exampleui5.controller.App",{onInit:function(){i=this.getView()},Login:function(){var e=this.getRouter(i);this.navTo("List",{},true)}})});
